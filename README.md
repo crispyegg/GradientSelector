@@ -1,0 +1,1 @@
+ gradient selector from css
